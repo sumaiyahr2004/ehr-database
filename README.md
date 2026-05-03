@@ -10,14 +10,17 @@ The website covers the core data management needs of a clinical environment. Eve
 - Add new patients with full demographic and emergency contact information
 - Edit existing patient records
 - Delete patients from the system
+
 **Clinical Data**
 - Browse all visits with associated diagnoses pulled in via JOIN
 - View prescriptions linked to the ordering provider and patient
 - View medications tied to prescriptions
 - Browse provider directory by specialty
+
 **Allergy Conflict Detection**
 - Automatically flags cases where a patient has been prescribed a medication that conflicts with a known allergy
 - Covers common conflict pairs including Penicillin, NSAIDs, Sulfa drugs, ACE inhibitors, and more
+
 **Reports**
 - Patients who received a diagnosis but no prescription during a visit
 - Providers ranked by how frequently they prescribe each medication
